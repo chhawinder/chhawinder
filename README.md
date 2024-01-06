@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chhawinder</h1>
 <h3 align="center">A passionate React and Kotlin developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam12&label=Profile%20views&color=0e75b6&style=plastic" alt="sanyam12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanyam12" alt="sanyam12" /></a> </p>
 
 - 🔭 I’m currently working on **DSC Connect**
 
